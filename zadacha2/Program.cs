@@ -5,12 +5,18 @@ public class Answer {
   static int FindMax(int a, int b, int c)
     {
       // Введите свое решение ниже
-    int max = a;
-    
-    if (a > max) max = a;
-    if (b > max) max = b;
-    if (c > max) max = c;
-    
+ {
+      int max = a;
+        if (max < b)
+        {
+            max = b;
+        }
+        if (max < c)
+        {
+            max = c;
+        }
+        return max;
+    }
     
     
 

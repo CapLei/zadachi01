@@ -2,3 +2,13 @@ C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\zadacha2.GeneratedMSB
 C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\zadacha2.AssemblyInfoInputs.cache
 C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\zadacha2.AssemblyInfo.cs
 C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\bin\Debug\net7.0\zadacha2.exe
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\bin\Debug\net7.0\zadacha2.deps.json
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\bin\Debug\net7.0\zadacha2.runtimeconfig.json
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\bin\Debug\net7.0\zadacha2.dll
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\bin\Debug\net7.0\zadacha2.pdb
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\zadacha2.dll
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\refint\zadacha2.dll
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\zadacha2.pdb
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\zadacha2.genruntimeconfig.cache
+C:\Users\fuvis\Desktop\Zadachi01\zadacha2\obj\Debug\net7.0\ref\zadacha2.dll
